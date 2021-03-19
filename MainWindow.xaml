@@ -52,6 +52,7 @@
         <Label x:Name="LivePriceLabel" Content="LivePrice" Margin="10,50,0,0" Grid.Row="2" VerticalAlignment="Top" Height="26" HorizontalAlignment="Left" Width="80"/>
         <Label Content="Calculate by live Price:" Margin="10,19,0,0" Grid.Row="2" VerticalAlignment="Top" Height="26" HorizontalAlignment="Left" Width="152"/>
         <Label Content="Calculate by Set Price:" Margin="0,88,0,0" Grid.Row="2" VerticalAlignment="Top" Height="26" HorizontalAlignment="Left" Width="198"/>
+        <Label Content="Man kann hier &#xD;&#xA;berechnen wie weit &#xD;&#xA;der Kurs fallen kann&#xD;&#xA;bis die Position &#xD;&#xA;aufgelöst wird." HorizontalAlignment="Left" Margin="541,0,0,0" Grid.Row="2" VerticalAlignment="Top" Width="138" Height="287"/>
 
     </Grid>
 </Window>
