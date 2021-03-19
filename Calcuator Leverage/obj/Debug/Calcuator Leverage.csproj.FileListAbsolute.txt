@@ -1,0 +1,18 @@
+C:\Users\Flo\source\repos\Leverage-Calculator\Calcuator Leverage\obj\Debug\Calcuator Leverage.csprojAssemblyReference.cache
+C:\Users\Flo\source\repos\Leverage-Calculator\Calcuator Leverage\obj\Debug\MainWindow.g.cs
+C:\Users\Flo\source\repos\Leverage-Calculator\Calcuator Leverage\obj\Debug\App.g.cs
+C:\Users\Flo\source\repos\Leverage-Calculator\Calcuator Leverage\obj\Debug\Calcuator Leverage_MarkupCompile.cache
+C:\Users\Flo\source\repos\Leverage-Calculator\Calcuator Leverage\obj\Debug\Calcuator Leverage_MarkupCompile.lref
+C:\Users\Flo\source\repos\Leverage-Calculator\Calcuator Leverage\bin\Debug\Calcuator Leverage.exe.config
+C:\Users\Flo\source\repos\Leverage-Calculator\Calcuator Leverage\bin\Debug\Calcuator Leverage.exe
+C:\Users\Flo\source\repos\Leverage-Calculator\Calcuator Leverage\bin\Debug\Calcuator Leverage.pdb
+C:\Users\Flo\source\repos\Leverage-Calculator\Calcuator Leverage\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Flo\source\repos\Leverage-Calculator\Calcuator Leverage\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Flo\source\repos\Leverage-Calculator\Calcuator Leverage\obj\Debug\MainWindow.baml
+C:\Users\Flo\source\repos\Leverage-Calculator\Calcuator Leverage\obj\Debug\Calcuator Leverage.g.resources
+C:\Users\Flo\source\repos\Leverage-Calculator\Calcuator Leverage\obj\Debug\Calcuator_Leverage.Properties.Resources.resources
+C:\Users\Flo\source\repos\Leverage-Calculator\Calcuator Leverage\obj\Debug\Calcuator Leverage.csproj.GenerateResource.cache
+C:\Users\Flo\source\repos\Leverage-Calculator\Calcuator Leverage\obj\Debug\Calcuator Leverage.csproj.CoreCompileInputs.cache
+C:\Users\Flo\source\repos\Leverage-Calculator\Calcuator Leverage\obj\Debug\Calcuator Leverage.csproj.CopyComplete
+C:\Users\Flo\source\repos\Leverage-Calculator\Calcuator Leverage\obj\Debug\Calcuator Leverage.exe
+C:\Users\Flo\source\repos\Leverage-Calculator\Calcuator Leverage\obj\Debug\Calcuator Leverage.pdb
